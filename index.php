@@ -1,4 +1,5 @@
 <?php
+//Tem que abrir o session_start para trabalhar com sessão
 session_start();
 ?>
 <!DOCTYPE html>
