@@ -2,6 +2,7 @@
 //Tem que abrir o session_start para trabalhar com sessão
 // Teste 2 - novo comentario.
 // Comentário do Renan
+// Hello Word
 session_start();
 ?>
 <!DOCTYPE html>
